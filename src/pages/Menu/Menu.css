@@ -1,0 +1,12 @@
+.menu-card .card1{
+    max-width: 330px;
+}
+
+.active{
+    color: green;
+    text-underline-offset: 5px;
+    text-decoration: underline;
+}
+select{
+    outline: none;
+}

@@ -1,0 +1,9 @@
+.footer-logo{
+    max-width: 300px;
+}
+
+.copyright-icons:hover{
+    color: rgb(49, 143, 30);
+
+    transition: 0.3s ease-in-out;
+}

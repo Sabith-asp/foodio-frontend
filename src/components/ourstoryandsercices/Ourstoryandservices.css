@@ -1,0 +1,19 @@
+.card3{
+    box-shadow: 0 0 30px rgb(192, 191, 191);
+    border-radius: 20px;
+}
+
+.card3 p{
+    font-size: 14px;
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+.right{
+    width: 100%;
+}
+}
+@media (max-width: 400px) {
+.card3{
+    width: 75%;
+}
+}
