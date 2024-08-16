@@ -179,6 +179,9 @@ const Menu = () => {
           ))}
         </div>
         <button>flooooo</button>
+        <button>flooooo</button>
+        <button>flooooo</button>
+        <button>flooooo</button>
       </div>
     </div>
   );
